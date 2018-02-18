@@ -1,0 +1,4 @@
+#Sun Feb 18 00:18:56 IST 2018
+base.0=A\:\\AutoReplyMate-master\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
