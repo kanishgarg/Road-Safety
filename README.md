@@ -4,7 +4,7 @@
  
  Just Install the app and enjoy.
 
-'''
+```
 #include <iostream>
 using namespace std;
 int x_cord[11];
@@ -64,4 +64,4 @@ int main()
    }     
    return 0;
 }
-'''
+```
